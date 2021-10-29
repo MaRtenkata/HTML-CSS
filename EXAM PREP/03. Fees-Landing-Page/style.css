@@ -1,0 +1,61 @@
+@import url("https://use.fontawesome.com/releases/v5.15.4/css/all.css");
+@import url('https://fonts.googleapis.com/css2?family=Lato&family=Montserrat&display=swap');
+
+body {
+    max-width: 80%;
+    margin: auto;
+}
+
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
+}
+
+
+
+
+/* Navigation */
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    padding: 0 70px;
+}
+
+.header-logo-nav {
+    margin: auto 0;
+}
+
+
+.header-logo-img img{
+    width: 100px;
+    height: 80px;
+    
+}
+
+
+.header-logo-nav-list {
+    padding: 0;
+    display: flex;
+    
+}
+
+.header-logo-nav-list-item {
+    list-style: none;
+    margin: 0 15px;
+}
+
+.header-logo-nav-list-link {
+    text-decoration: none;
+    color: gray;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+/* Tax */
+
+
+
+

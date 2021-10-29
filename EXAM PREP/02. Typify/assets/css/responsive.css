@@ -1,0 +1,37 @@
+@media all and (max-width: 600px) {
+
+
+    .banner h2 {
+       width: 90%;
+       font-size: 30px;
+    }
+
+    .banner  p {
+        font-size: 20px;
+     }
+
+     .actions li {
+         width: 100%;
+     }
+
+     .button {
+        padding: 0 35%;
+     }
+
+     .wrapper > .inner{
+         width: 90%;
+     }
+
+
+     .features {
+       flex-direction: column;
+     }
+
+     .feature {
+        width: 100%;
+     }
+
+     .wrapper > .inner.narrow {
+        width: 90%;
+     }
+}
