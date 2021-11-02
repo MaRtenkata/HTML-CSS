@@ -1,0 +1,61 @@
+@media all and (max-width: 600px) {
+  
+
+.navbar-light .navbar-brand {
+    margin: auto;
+}
+
+.hero img {
+    display: none;
+}
+
+.container {
+  
+    text-align: center;
+}
+
+.container-fluid {
+    width: 95%;
+    margin-top: -200px;
+}
+
+.hero-btns {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 200px;
+}
+
+.row {
+    flex-direction: column;
+}
+
+.col-sm-6 {
+    max-width: 100%;
+}
+
+.service-btn {
+    margin-bottom: 100px;
+}
+
+.about {
+    margin-bottom: 100px;
+}
+
+.contact-btn {
+    display: none;
+}
+
+.contact-nav {
+    display: flex;
+    flex-direction: column;
+    margin-top: 20px;
+}
+
+footer h3 {
+    width: 80%;
+    margin: auto;
+}
+
+
+
+}
